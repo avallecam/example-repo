@@ -10,8 +10,8 @@ The results of the investigation is published on the Software Sustainability Ins
 
 The main directory contains:
 
-1. research_fish_analysis.py: the analysis code itself
-1. requirements.txt: a list of the libraries used by code
+1. `research_fish_analysis.py`: the analysis code itself
+1. `requirements.txt`: a list of the libraries used by code
 1. What questions do we want to answer with this data?: a list of questions I want to answer with the data
 
 The data directory contains:
